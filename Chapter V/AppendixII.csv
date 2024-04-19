@@ -1,0 +1,445 @@
+Names;Design;Priority hotspots;Species richness;Species (min & max);Richness rank;Total coverage of PHs (km2);Protection rank;Potential conservation rank
+Amne-Mouteh;NP;1;23;19,30;4;60.49;2;4
+Arasbaran;NP;0, -2, -1;5;4,5;2;603.54;3;2
+Bakhtegan;NP;2;26;24,29;4;1439.83;4;4
+Bamou;NP;4;45;36,59;5;115.32;4;5
+Boujagh;NP;0;4;4,4;1;34.34;1;1
+Dayernakhilou;NP;-2;1;1,1;1;173.76;1;1
+Dena;NP;4;62;53,70;4;176.32;2;4
+Dez;NP;-2, 0;2;1,5;1;175.89;2;1
+Ghamishloo;NP;1;22;19,25;2;282.92;1;2
+Ghatroyeh;NP;1;24;23,25;2;209.5;1;2
+Golestan;NP;0, 1;14;6,20;3;833.95;4;3
+Kantal;NP;0;4;3,4;1;69.95;1;1
+karkheh;NP;-1, -2;3;1,6;2;40.09;2;1
+Kavir;NP;0, -1, -2;6;0,13;5;3781.06;5;4
+Khabr;NP;2, 1;23;17,28;4;672.67;4;4
+Khojir;NP;4;36;31,40;2;99.5;1;3
+kiasar;NP;0;22;20,25;2;11.91;1;2
+kolah ghazi;NP;0;15;12,17;2;416.29;2;2
+Lar;NP;4;0;0,0;5;78.82;3;5
+Nayband;NP;-2;1;1,1;1;319.08;2;1
+Paband;NP;0, 1;25;14,32;4;266.24;2;3
+Salouk;NP;0;8;8,9;2;0;1;1
+Sarigol;NP;0;8;8,8;2;2.14;1;2
+Siah kouh;NP;-2;2;0,4;1;1228.94;4;1
+Sorkhe hesar;NP;4;26;22,31;2;19.78;1;3
+Tandoureh;NP;2;8;2,14;2;2.5;2;2
+Tang-e- sayad;NP;2;38;36,41;2;12.9;1;3
+Touran;NP;0, -1, -2;3;0,9;4;7827.94;4;3
+Urmia;NP;-1, -2;0;0,0;5;4629.56;5;4
+Zamene Ahoo;NP;0;2;2,2;1;145.92;1;1
+Abshar-e-shevi;NM;2;32;32,32;2;0;1;2
+Bazangan;NM;-2;0;0,0;1;3.96;1;1
+Cheshme garab;NM;0;3;3,3;1;16.6;1;1
+Cheshme gel feshan pirgol;NM;0;8;8,8;1;0.12;1;1
+cheshme gel feshan tang;NM;0;8;8,8;1;0.94;1;1
+Cheshmeh fakjour damkesh;NM;0;12;12,12;1;0.95;1;1
+Damavand;NM;4;41;41,41;2;11.93;1;2
+Dehloran;NM;-2;2;2,3;1;14.75;1;1
+Dorfak;NM;0;0;0,0;4;0;1;3
+Fosili maraghe;NM;0;5;5,5;1;14.7;1;1
+Ghar chal nakhjir;NM;2;26;26,26;2;0.95;1;2
+Ghare ghouri ghaleh;NM;0;9;9,9;1;0.17;1;1
+Ghare mahikour;NM;2;40;40,40;2;0.95;1;2
+Ghare proaa;NM;0;14;14,14;1;0.95;1;1
+Ghare rud afshan;NM;4;33;33,33;2;0.03;1;2
+Ghare sahoulan;NM;0;5;5,5;1;0.95;1;1
+Ghare yakhgan;NM;0;18;18,18;1;12.28;1;1
+Gholal binaloud;NM;2;23;21,25;4;44.91;2;4
+Gholal seganeh;NM;4;0;0,0;4;0;1;4
+Ghole sabalan;NM;0;8;8,9;2;25.72;2;2
+Gonbad namakin khersin;NM;4;24;24,24;2;0.94;1;2
+Jazireh kharkou;NM;-2;0;0,0;1;35.64;1;1
+Kanibard;NM;-2;5;5,5;1;0.69;1;1
+khoshke daran;NM;4;32;32,32;2;2.54;1;2
+kouhe namak jashk;NM;-1;2;2,2;1;11.69;1;1
+laleh vajgoun;NM;3;46;46,46;2;4.14;1;2
+Orse sarani;NM;0;5;5,5;1;0.82;1;1
+Sarve abar kouh;NM;0;8;8,8;1;0.95;1;1
+Sarve ghare bagh;NM;0;8;7,9;2;0.75;1;2
+Sarve harzevil;NM;0;20;20,20;1;0.95;1;1
+Sarve sirch;NM;0;18;18,18;1;0.95;1;1
+Sarve zarbin sangan;NM;0;13;13,13;1;0.95;1;1
+Senobar shirvan;NM;0;7;7,7;1;0.95;1;1
+Sepahan;NM;0;21;21,21;2;0.79;1;1
+Shamsham;NM;0;9;9,9;1;2.21;1;1
+Sousan sefid;NM;1;20;20,21;3;0.46;2;3
+Taftan;NM;1;19;19,19;1;2.24;1;1
+Tange razianeh;NM;0;7;7,7;1;0.53;1;1
+Tange vashi;NM;4;27;27,27;2;34.42;1;2
+Tar va havir;NM;4;40;40,40;2;5.51;1;2
+7 kilometer international boundary;NHA;-2, 0, -1, 1, 2;2;0,14;1;21327.54;5;1
+Abshineh Dam;NHA;0;10;10,10;1;0.85;1;1
+Aghgol;NHA;0;14;12,16;2;8;1;2
+Aghgol-e Makou;NHA;-2;0;0,1;1;991.64;4;1
+Ahangaran;NHA;-2;2;2,2;1;1.38;2;1
+Allah gholi;NHA;2;36;36,36;2;52.92;1;2
+Alvand;NHA;0, 2;20;15,26;3;164.54;2;3
+Amroleh dalakhani;NHA;0;14;12,15;2;324.55;2;2
+Anjerak-e rabar;NHA;2;30;28,31;3;120.59;2;3
+Anzan;NHA;0;8;7,8;4;191.24;3;4
+Ariz-e bafgh;NHA;0;9;0,16;3;980.9;4;3
+Avaj - Abegarm;NHA;0;16;9,18;3;892.65;4;3
+Aziz Abad No Huntinh Area;NHA;0;9;6,15;2;171.86;2;2
+Badil;NHA;0;12;7,17;2;36.9;2;2
+Bagh-e Shadi;NHA;1, 2;24;24,25;3;275.56;2;3
+Bagheran;NHA;-2;4;4,4;3;11.24;1;2
+Basiran;NHA;1, 2;30;22,38;4;869.74;4;4
+Bayan;NHA;0;6;4,11;2;278.46;4;2
+Bazarjan;NHA;0;20;16,22;3;209.03;2;3
+Bazd;NHA;-1, -2;2;0,5;1;75.2;2;1
+Bazman;NHA;-1;10;6,12;3;940.81;4;3
+Bina & Bijar & Chakoor;NHA;-1, -2;2;1,3;1;381.75;2;1
+bolbol ab;NHA;-1;4;0,10;2;649.79;3;2
+Bozmay;NHA;-1;4;3,4;1;295.03;2;1
+Chaf;NHA;0;4;2,5;1;3.78;1;1
+Chaharshakh;NHA;0, 1;23;16,29;3;154.09;2;3
+Chah-e naft;NHA;0;16;14,18;3;400.7;3;3
+Chal khatoon;NHA;2;26;25,26;4;35.94;2;4
+Charoimagh;NHA;0;0;0,0;4;748.19;4;4
+Chelav;NHA;4;24;24,24;2;58.02;1;2
+Chelcheli;NHA;3, 4;31;19,38;3;114.29;2;4
+Choghakhor;NHA;2;45;45,45;2;24.45;1;2
+Dalan;NHA;0;8;7,10;2;302.31;1;2
+Dara;NHA;0, 1;20;7,38;3;392.78;4;4
+Dareh bagh;NHA;1;22;8,30;4;620.5;4;4
+Darkesh&Haaver;NHA;1;12;11,12;2;177.93;1;2
+Dashtak;NHA;2;33;27,40;4;531.78;4;4
+Deilamane dorfak;NHA;0;12;7,16;3;11.02;2;3
+Dohezar & Sehezar;NHA;3, 4;36;18,51;4;424.25;4;5
+Doroh;NHA;-2;2;2,3;1;710.08;3;1
+East Alamout;NHA;2, 3, 4;33;20,48;2;597.49;2;3
+Ejdeha Balouch;NHA;0;4;4,4;1;4.02;1;1
+Emamzadeh ali;NHA;4;42;41,44;4;2.25;2;4
+Eshkevarat;NHA;0;16;12,22;3;99.53;2;3
+Eslami Island;NHA;-1, -2;4;4,5;2;236.88;2;2
+Estil-e abbasabad;NHA;0;5;5,5;1;1.43;1;1
+Fereidonkenar;NHA;0;5;5,5;1;32.08;1;1
+Fileh khas;NHA;0;10;6,17;3;636.77;4;3
+Gardeh ghite meymand;NHA;-2;2;1,4;1;2.85;1;1
+Garin al shotor;NHA;1, 2;28;25,31;4;490.58;4;4
+Ghaleh Shadab;NHA;0;16;11,21;2;38.96;1;2
+ghalikoh;NHA;2;42;39,44;5;344.63;4;5
+Ghareh gheshlagh;NHA;-1, 0;4;3,6;2;25;2;2
+Ghazanghayeh;NHA;-1, 0;4;3,4;3;182.49;4;3
+Godeh ghoul;NHA;0, 1;24;23,25;3;147.51;2;2
+Golgun;NHA;-2;3;3,4;2;141.06;3;1
+Golzar-e neyzar;NHA;1;20;17,22;3;442.49;3;3
+Gomishan;NHA;0;0;0,0;4;98.03;2;3
+Hana;NHA;3;45;37,51;4;120.42;2;5
+Hasanloo Wetland;NHA;-1;2;2,2;1;11.46;1;1
+Hashilan;NHA;0;13;13,13;1;20.32;1;1
+Hashtad pahlo;NHA;1, 2;26;21,31;4;60.65;3;4
+Hengam;NHA;-2;3;2,5;2;184.8;4;2
+Hezarjarib;NHA;0, 1;21;10,30;3;108.9;2;3
+Hoze soltan;NHA;0;8;4,13;3;78.62;2;3
+Jarf;NHA;0, -1;4;4,6;2;256.24;4;2
+Jik & Zidar;NHA;-2;4;3,4;2;38.3;2;1
+Kaghakonan;NHA;0;9;6,14;3;441.37;3;3
+Kalateh;NHA;-2;4;0,7;2;774.94;4;2
+Kalilagh;NHA;-1;4;4,5;2;405.42;2;1
+Kamarghaleh;NHA;-1;7;4,11;1;234.03;2;1
+Kamarsorkh No Hunting Arae;NHA;-2;4;3,6;1;62.82;1;1
+Karkas;NHA;3;0;0,0;4;745.1;2;4
+Kavdeh;NHA;2, 4, 0;24;18,33;3;0;3;4
+Kendiman;NHA;-1;5;4,6;2;230.4;3;3
+Kharaghan;NHA;0;15;12,18;3;211.01;3;3
+Kharmankoh;NHA;2;25;24,27;4;0.72;2;4
+Kharoo;NHA;-1, -2;6;0,11;1;1.07;3;1
+Khonar;NHA;2;22;15,30;4;155.21;3;4
+Khoramnaz;NHA;4;87;84,92;4;158.16;2;5
+Khorasanloo;NHA;0;16;15,19;3;544.35;3;3
+Kiasar;NHA;0;20;20,20;1;50.42;1;1
+Koh-e Bozorgi Anarak;NHA;-2;0;0,0;1;0.43;1;1
+Koh-e gorm-e jahrom;NHA;1;17;14,20;2;37.99;2;2
+Koh-e hava va Tang-e khor-e lamerd;NHA;-1, -2;2;1,4;1;1109.01;4;1
+Koh-e Mond;NHA;-1;1;0,2;1;384.55;3;1
+Koh-e sefid;NHA;4;28;16,40;4;250.44;4;5
+Koh-e siyah;NHA;2;32;29,34;3;355.84;2;3
+Kohestan;NHA;1, 0;18;17,19;3;558.78;3;3
+kolaheh;NHA;0;20;19,22;3;135;2;3
+Lafor;NHA;0, 2;12;9,16;2;219.63;2;2
+Lar;NHA;4;0;0,0;4;78.82;2;4
+Lashkargah;NHA;-2;4;3,5;1;52.48;1;1
+Maharloo;NHA;4;37;32,44;4;17.97;2;4
+Maksorkh;NHA;-2;2;0,4;1;1127.4;4;1
+Marvar-e meibod;NHA;1, 2;23;18,28;3;754.88;2;3
+Mashkol;NHA;0;13;11,14;2;55.56;2;2
+Mazaijan;NHA;0;14;10,16;3;832.34;4;3
+Mazibon;NHA;0;12;12,13;2;14.79;1;2
+Melboland;NHA;4;28;28,29;2;23.52;1;3
+Mishodagh;NHA;-1, -2;5;4,5;2;1103.07;4;2
+Nav-e Asalem;NHA;0;14;14,14;1;49.18;1;1
+Nishak;NHA;2;14;14,14;1;135.42;1;1
+Nobahar;NHA;-2;2;0,4;1;905.31;4;1
+Nodarhang-e rafsanjan;NHA;0;18;17,20;3;916.67;4;3
+Paband;NHA;0, 1;25;14,32;4;266.24;4;4
+Padena;NHA;1, 2;18;14,23;3;270.15;3;3
+Padenay-e semirom;NHA;4;61;51,70;4;197.15;3;5
+Palang Galoon;NHA;3, 2;28;25,32;4;278.9;3;4
+Palangab;NHA;0;17;13,22;2;213.72;2;2
+Paridar-e abolhasani;NHA;1;23;21,25;3;172.91;2;3
+Pol-e dokhtar Wetlands;NHA;0;14;11,16;2;160.22;2;2
+Pozem;NHA;0;10;7,11;3;104.23;2;3
+Raeesi;NHA;1, 0;0;0,0;4;61.33;2;4
+Razan;NHA;4;36;36,36;2;17.48;1;2
+Rivand;NHA;0, -1;6;1,9;2;512.58;4;2
+Roshan koh;NHA;2;26;24,28;4;283.16;3;4
+Sahand;NHA;0, -2, -1;6;3,7;2;1252.91;5;3
+Sedeh;NHA;-1, -2;2;1,4;1;655.82;4;1
+Seghaleh;NHA;-2;3;2,4;1;230.61;2;1
+Sekohak;NHA;-2;2;0,4;1;1405.67;4;1
+Sepidkoh;NHA;4, 1;20;5,32;3;402.9;4;3
+Setableh;NHA;4;45;40,52;4;70.23;2;5
+Seyed morteza;NHA;0;6;4,7;1;285.08;2;2
+Shahghandab;NHA;1;24;18,31;4;182.71;4;4
+Shahjahan;NHA;0;8;7,10;3;38.09;2;3
+Shahr-e babak;NHA;0, 1;20;8,24;2;429.64;2;2
+Shahzadeh ebrahim;NHA;0;8;4,16;3;39.76;2;3
+Shams abad;NHA;2;44;42,45;3;13.61;1;3
+Shirinsou;NHA;0;10;10,10;1;0.43;1;1
+Shirkoh-e taft;NHA;2, 1;27;23,29;3;34.31;2;3
+Shohaday-e mohitban;NHA;0;8;7,9;2;25.74;2;2
+Shorabil;NHA;0;8;8,8;1;2;1;1
+Shou va Lander;NHA;0, 2;19;14,32;3;94.25;3;3
+Siyahbisheh;NHA;4;30;24,36;2;1.44;1;3
+Sofikam;NHA;-1;0;0,0;5;0;3;4
+Taghestan-e abarkouh;NHA;0;8;4,13;3;587.97;4;3
+Tajarak;NHA;0;12;9,14;2;34.21;1;2
+Takhtiran;NHA;1;13;8,19;3;135.9;2;3
+Talou va Shirband;NHA;4;23;7,35;4;164.95;2;4
+Tapal;NHA;4;29;23,35;2;180.95;1;3
+Tarom-e sofla;NHA;1;20;19,21;2;4.72;2;2
+Tot siyah;NHA;1;26;26,27;2;108.93;1;2
+Vanak;NHA;2;43;40,45;4;63.65;2;4
+West Alamout;NHA;0;22;20,25;4;450.75;4;4
+Yekanat;NHA;-1, -2;0;0,0;4;174.02;2;3
+Zarabad;NHA;-1;2;2,3;1;682.13;4;2
+Zarcheshmeh;NHA;2;37;31,46;4;215.31;2;4
+Zarin;NHA;0;9;8,10;2;134.41;2;2
+Zelehzard;NHA;-1, -2;1;1,1;1;0.1;3;2
+Abdolrazagh;PA;0;8;6,9;3;213.92;2;3
+Abshar shirgah;PA;0;14;11,16;2;3.46;1;2
+Aghdagh;PA;0;16;14,17;3;278.83;2;3
+Alaho Akbar;PA;1, 0;6;0,14;2;162.52;3;2
+Alamdar pdaghi;PA;-1, -2;3;2,4;2;51.01;3;2
+Alamout;PA;0, 2;25;18,38;4;196.3;3;4
+Alborz;PA;4, 3;39;8,62;4;2296.77;5;5
+Almobolagh;PA;0;15;15,15;1;96.87;1;1
+Alvand;PA;0, 2;20;15,26;4;164.54;2;3
+Angooran;PA;0;9;7,11;3;823.75;4;3
+Arasbaran;PA;0, -2, -1;5;4,5;5;603.54;4;4
+Arjan & arishan;PA;4;53;29,67;4;403.03;3;5
+Ark & Korong;PA;-2;4;4,5;1;208.23;1;1
+Asas;PA;0;13;13,13;1;43.13;1;1
+Badr va Parishan;PA;0;12;11,13;3;211.54;3;3
+Baghe keshmir;PA;-2;0;0,0;1;119.01;2;1
+Bagheran;PA;-2;4;4,4;2;11.24;2;1
+Bagh-e-shadi;PA;1;24;24,25;2;74.12;1;2
+Bahou;PA;-1, -2, 0;2;0,7;1;4279.04;5;2
+Bahr aseman;PA;2;29;26,31;4;855.95;4;4
+Bahramgour;PA;1, 0, 2;22;13,25;4;3508.56;5;4
+Barm-e firouz;PA;4;82;78,85;3;171.54;1;4
+Bashgol;PA;0;0;0,0;4;98.55;2;3
+Baz;PA;1, 4;27;20,36;4;153.08;3;4
+Beleskouh;PA;3;0;0,0;5;0;2;5
+Bidoiyeh;PA;0, 1;20;18,23;3;898.39;4;4
+Bijar;PA;0;0;0,0;5;92.7;4;5
+Binaloud;PA;2;22;20,25;3;599.48;3;4
+Birami;PA;0, -1;4;2,6;1;233.49;2;2
+Bisotoun;PA;0;14;12,15;3;158.66;2;3
+Boula;PA;0;20;13,23;3;0.48;2;3
+Bouzin;PA;0;6;4,7;3;15.46;4;4
+Bozghoosh;PA;0;10;7,12;3;115.19;4;3
+Chah kocheh;PA;1;18;17,19;3;227.99;4;4
+Charbagh;PA;4;54;48,62;4;194.02;2;4
+Charoimagh;PA;0;0;0,0;4;748.19;3;4
+Chela;PA;0;0;0,0;4;0;1;3
+Chelchemeh;PA;0;9;9,10;3;279.57;3;3
+Dalankouh;PA;4;36;28,47;4;267.2;4;4
+dare bagh;PA;0, 1;22;20,26;3;285.67;2;3
+Darmian;PA;-2;3;3,3;2;193.36;2;1
+Darouneh;PA;-2;3;2,3;2;61.91;4;1
+Dehaj;PA;1;23;21,25;4;681.4;3;4
+Dena;PA;4;62;53,70;4;176.32;3;5
+Denaye sharghi;PA;4;76;63,92;4;312.46;2;4
+Dez;PA;-2, 0;2;1,5;3;175.89;2;2
+Dimeh;PA;-2;3;3,3;1;97.62;1;1
+Dinar kouh;PA;-2, 0;7;3,12;2;341.34;2;2
+Dizmar;PA;0;5;4,6;3;241.87;4;4
+Dorbadam;PA;2;14;13,15;4;0.01;3;4
+Eftekhari;PA;-2;3;1,4;2;396.73;2;1
+Farour;PA;-2;1;1,1;1;20.4;2;1
+Garzemi;PA;-2;0;0,0;1;125.68;1;1
+Gasht rudkhan;PA;0;14;9,19;3;263.76;2;3
+Geno;PA;4;33;27,36;3;430.09;2;4
+Ghalajeh;PA;0;8;7,9;3;116.11;3;3
+Ghamsar;PA;2;33;32,35;4;158.14;2;4
+Gharchagheh;PA;1;12;9,15;4;3.79;3;4
+Gheisari;PA;3;46;46,47;3;5.11;1;3
+Ghorigol;PA;0;7;7,7;1;5.55;1;1
+Ghorkhud;PA;1;0;0,0;4;391.46;2;4
+Golar abad;PA;1;22;21,23;2;27.62;1;2
+Haft shahidan;PA;0;14;14,14;1;97.9;1;1
+Haftad ghole;PA;1, 2;22;19,25;4;810.27;4;4
+Haraz;PA;4;0;0,0;5;90.66;2;5
+Harra;PA;0;6;3,8;2;675.48;4;3
+Harra gabrik & Jask;PA;0;7;7,7;1;265.26;2;2
+Harra khoran;PA;0;3;3,3;1;25.56;1;1
+Harra rude gaz;PA;0;8;7,10;2;139.71;1;2
+Harra tiab & Minab;PA;2, 0;16;13,19;2;458.97;2;3
+helali  proected area;PA;-2;4;3,6;2;364.47;4;2
+Helen;PA;3, 2;43;40,45;4;229.52;3;4
+Helleh;PA;0, -2;2;1,3;1;201.23;2;1
+Hengam;PA;-2;3;2,5;4;184.8;2;3
+Hormod;PA;0;14;8,19;3;1584.94;4;3
+Horolazim;PA;-2;0;0,1;1;305.49;4;1
+Jahan nama;PA;3, 4;0;0,0;4;95.65;2;4
+Jajrood;PA;4;30;8,47;3;596.3;2;4
+Jangal e Khajeh;PA;-2;0;0,0;1;4.05;3;1
+Jangal -e-abr;PA;3;23;19,31;4;9.94;2;4
+Kabir kouh;PA;0;8;5,12;2;151.85;2;2
+kaghaz konan;PA;0;0;0,0;5;197.54;4;5
+kahyaz;PA;0;17;1,24;3;477.32;3;3
+Kalmand;PA;0;15;5,27;3;1305.7;5;4
+Kamarsorkh;PA;-2;0;0,0;4;26.45;2;2
+Karkas;PA;3;0;0,0;5;745.1;4;5
+Karkheh;PA;-2;2;1,2;1;76.12;2;1
+Kavir;PA;0, -1, -2;6;0,13;2;3781.06;4;2
+Keshar;PA;0, 2;24;17,36;3;204.74;2;3
+Khangormaz;PA;0;17;17,17;1;88.21;1;1
+khibous & anjilsi;PA;0;12;11,12;2;39.38;1;2
+kohe bafgh;PA;0;17;8,20;3;521.73;3;3
+kohe bazangan;PA;-1, -2;1;0,3;1;382.7;3;1
+Koh-e- jopar;PA;1;21;19,24;4;583.9;4;4
+Koraei;PA;-1, 0;7;2,15;2;388.06;3;2
+kouh asiab;PA;0;17;15,18;2;116.35;2;2
+Kouhbozorgi va Kharou;PA;-1, -2;5;0,11;2;2107.34;5;2
+Kouhe birk;PA;0, -2;4;1,8;2;486.12;4;2
+Kouh-e- dil;PA;2, 0;23;17,30;3;102.7;2;3
+Kouhe homag;PA;1, 4, 3;22;20,24;3;884.65;2;3
+kouhe khamin;PA;2;34;30,39;3;255.3;2;3
+Kouh-e- Pouzak;PA;0;12;8,20;3;224.63;2;3
+Kouh-e-k haeiz va sorkh;PA;0;15;8,21;3;162.3;2;3
+kouh-e-shir;PA;2;23;18,27;3;113.86;2;3
+Kousalan va Shahou;PA;0;9;7,12;3;485.19;4;3
+Lashgar dar;PA;0;20;16,23;2;35.18;1;2
+Lisar;PA;0;9;4,14;3;13.97;4;3
+Love;PA;1;17;15,20;2;33.71;2;2
+Male gale;PA;4;38;26,49;4;339.79;2;5
+Malousan;PA;1;16;15,18;2;35.97;1;2
+Manasht & ghalarang;PA;0;7;6,8;1;77.83;2;2
+Marakan;PA;-2, -1;0;0,0;5;785.04;4;4
+Marez;PA;0;15;12,18;4;1430.22;4;4
+Margoon;PA;4;86;85,87;3;0.57;1;4
+Mianjangla fasa;PA;2, 1;22;19,25;3;453.95;2;3
+Mirabad;PA;-2;0;0,1;1;33.05;2;1
+Mishdagh;PA;-2;1;1,1;1;196.04;3;1
+moghan;PA;-2;2;1,3;1;181.25;3;1
+Mond;PA;-2;1;0,1;1;233.18;2;1
+Mozafari;PA;-2;2;0,4;1;757.63;2;1
+Orse sistan;PA;-1;3;0,7;2;307.87;4;3
+Oshtorankouh;PA;2;42;40,44;4;462.2;3;4
+Palang dare;PA;1;22;19,24;4;7.41;2;4
+Parvand;PA;-2;3;2,4;2;140.83;2;1
+Parvar;PA;0;21;15,25;4;285.49;3;3
+Pirzoiyeh;PA;0;11;8,14;3;217.67;4;3
+Raeesi;PA;1, 0;0;0,0;4;61.33;1;3
+Sabzkouh;PA;2;43;41,45;4;399.37;3;4
+Sadi;PA;1, 0;20;18,21;3;305.96;4;3
+sahand;PA;0;0;0,0;5;471.99;4;5
+Salouk;PA;0;8;8,9;2;0;1;2
+Sang-e- mes;PA;1;25;25,25;2;103.22;1;1
+sarani;PA;0;0;0,0;5;0;3;5
+sarigol;PA;0;8;8,8;2;122;1;2
+Sarvelat & Javaher dasht;PA;0;12;12,13;2;193.57;1;2
+Sefidkouh;PA;0, 2, 1;25;14,44;4;713.9;4;3
+Seraj;PA;-2;1;1,3;1;250.59;3;1
+Shalo & mongahst;PA;3;42;42,42;2;131.31;1;2
+Shara;PA;0;10;8,12;2;0.13;1;2
+Shaskouh & esfadan;PA;-2;2;2,3;1;328.29;4;1
+Shesh roudbar;PA;0, 4;21;16,27;3;41.5;2;3
+Sheyda;PA;4;38;31,46;2;74.22;1;3
+Shileh;PA;-2;0;0,0;1;64.3;2;1
+Shimbar;PA;2, 3;36;32,38;3;401.68;2;3
+shirestan;PA;4;44;40,49;4;240.51;2;4
+Siah keshim;PA;0;6;4,7;1;1.34;1;1
+Siah kouh;PA;-2;2;0,4;4;1228.94;4;3
+Siah roud-e-Rudbar;PA;0;18;14,21;3;209.08;3;3
+sidva;PA;0;18;15,21;2;72.35;1;2
+Siouk;PA;4;57;44,68;4;104.85;2;5
+Sirkhoun;PA;-2;1;0,2;1;167.66;3;1
+Sorkhabad;PA;0;16;10,22;3;431.42;4;3
+Soufi chai;PA;0;7;7,7;1;130.98;1;1
+soulak;PA;2;20;17,22;2;0.74;1;2
+Takhte solatan;PA;-2;0;0,0;1;87.75;1;1
+Talab sade norouzlo;PA;-1;4;4,4;1;8.24;1;1
+Tandoureh;PA;2;8;2,14;4;2.5;2;4
+Tang haft;PA;2;28;25,31;2;2.09;1;3
+Tange sayad;PA;2;35;29,41;3;101.16;2;3
+Tang-e-Bostanak;PA;4;66;54,78;3;132.02;1;4
+Tang-e-koulak;PA;-2;2;1,2;1;373.56;4;1
+Tarom;PA;1, 0;20;16,23;2;858.67;4;3
+Touran;PA;0, -1, -2;3;0,9;2;7827.94;5;2
+varjin;PA;4;49;47,51;3;15.01;1;4
+vaz;PA;4;30;21,40;4;16.78;2;4
+Yari ghari;PA;0;8;7,8;3;420.97;4;3
+Zarin kouh;PA;1;2;0,5;2;172.85;4;3
+Zav;PA;0;12;6,20;2;37.44;3;3
+Chalous;PR;4;42;15,62;4;102.62;4;4
+Jajroud;PR;4;47;42,51;4;4.06;2;4
+Karaj;PR;4;51;42,62;5;52.73;4;5
+Kashaf roud;PR;0, 2, 1, -1, -2;4;0,12;2;145.59;5;2
+Lar va Haraz;PR;4;0;0,0;5;6.17;4;5
+Sard Abroud;PR;4;36;15,51;3;18.69;2;4
+Tajan;PR;-2;0;0,0;1;26.1;3;1
+Abasabad;WR;-2, -1;3;0,9;2;2464.66;5;2
+Amirkelayeh;WR;0;2;2,2;1;10.86;1;1
+Angouran;WR;0;9;8,10;3;257.79;2;3
+Bakhtegan;WR;2;26;24,29;4;1439.83;5;4
+Bisotoun (Varmangeh);WR;0;14;13,14;2;345.65;2;2
+Borouyeh;WR;2, 1;22;12,27;4;521.36;4;4
+Choukam;WR;0;4;4,4;1;2.64;1;1
+Darband-e-ravar;WR;-1, -2, 0;7;0,19;3;10707.78;5;3
+Dashtenaz;WR;0;12;12,12;1;0.56;1;1
+Dodangeh;WR;0;22;20,25;2;120.77;1;2
+Dreanjir;WR;-1;6;0,11;2;724.42;4;2
+Dsht-e-Laghari;WR;-2;4;2,7;2;41.38;2;1
+Fereidounkenar;WR;0;5;5,5;1;0.47;1;1
+Ghamishlou;WR;2, 1;22;17,31;4;634.88;4;4
+Hamoun;WR;-2;0;0,1;1;2459.89;5;1
+Heidari;WR;0, 1;11;9,12;3;388.16;3;3
+Hendorabi;WR;-2;1;1,1;1;42.76;1;1
+Jasb;WR;2;26;21,30;4;9.83;2;4
+Kamki;WR;0;12;10,16;3;154.17;2;3
+Kanibarazan;WR;-1, 0;9;4,17;2;28.87;2;1
+Kavedeh;WR;2, 4;0;0,0;5;1.03;4;4
+Khark;WR;-2;0;0,0;1;3.39;1;1
+Khoshyelagh;WR;2, 1;14;4,23;3;966.44;4;4
+Kiamaki;WR;-2, 0;0;0,0;5;377.91;4;4
+Kilahghazi;WR;0;17;17,17;2;0.06;1;2
+Lavandvil;WR;0;5;5,5;1;10.74;1;1
+Mehrouyeh;WR;0;16;16,16;1;55.86;1;1
+Miandasht;WR;0;5;2,9;2;140.12;4;2
+Miangaran;WR;3;39;39,39;2;24.77;1;2
+Miankaleh;WR;0;5;4,5;1;352.05;2;2
+Mouteh;WR;1, 2;23;15,32;4;1440.61;5;4
+Namakzar;WR;-2;3;3,3;1;142.86;1;1
+Naybandan;WR;-1, -2;3;0,10;3;12564.33;5;2
+Rasband;WR;2;26;26,26;2;106.19;1;2
+Robatshour;WR;-2;2;0,5;1;597.24;4;1
+Rochoun;WR;2, 1;25;19,28;3;127.34;3;3
+Sefidkouh;WR;0, 2, 1;25;14,44;4;713.9;2;4
+Selkeh;WR;0;4;4,4;1;3.6;1;1
+Semeskandeh;WR;0;12;12,12;1;10.41;1;1
+Shadegan;WR;-2;0;0,1;1;2722.88;5;1
+Shidvar;WR;-2;1;1,1;1;0.98;1;1
+Shirahmad;WR;0;6;4,8;2;221.87;2;2
+Shirkiuh;WR;2, 1;29;28,29;3;335.58;2;3
+Sirkhankol;WR;0;4;4,4;1;12.1;1;1
+sutav;WR;0;4;4,4;1;48.82;1;1
+Touran;WR;0, -1, -2;3;0,9;5;7827.94;5;4
+Yakhab;WR;-1, 0;10;4,16;4;1933.05;5;3
+Zarivar;WR;0;7;7,7;1;25.08;1;1
+Zaryab;WR;2;28;24,31;4;120.14;2;4
